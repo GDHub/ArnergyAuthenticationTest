@@ -1,0 +1,28 @@
+{
+  "name": "arnergyauthenticationtest",
+  "version": "1.0.0",
+  "description": "Arnergy Authentication Recruitment Test",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GDHub/ArnergyAuthenticationTest.git"
+  },
+  "keywords": [
+    "arnergy"
+  ],
+  "author": "Olaolu AKintoye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GDHub/ArnergyAuthenticationTest/issues"
+  },
+  "homepage": "https://github.com/GDHub/ArnergyAuthenticationTest#readme",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "express": "^4.17.1",
+    "mocha": "^8.4.0",
+    "request": "^2.88.2"
+  }
+}
